@@ -5,17 +5,21 @@ body{
     font-size: 2em;
 }
 h1{
-    margin-top: 0;
+    margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
-    font-size: 90px;
+    font-size: 5.625rem;
+    color: #66bfbf; 
     
 }
 h2{
     font-family:'Montserrat',sans-serif ;
-    
+    font-size: 2.5rem;
+    color: #66bfbf; 
+    font-weight: normal;
 }
 h3{
     font-family:'Montserrat',sans-serif ;
+    color: #11999e;
 }
 
 .top-container{
@@ -43,3 +47,23 @@ h3{
 .profile-pic{
     clip-path: circle(30.7% at 50% 50%);
 }
+.comp{
+    clip-path: circle(46.5% at 50% 54%);
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 1.5;
+}
+.chilles{
+    width: 30%;
+    float: right;
+    margin-left: 17px;
+}
+
