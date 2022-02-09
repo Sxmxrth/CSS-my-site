@@ -46,7 +46,8 @@ h3{
     bottom:300px ;
 }
 .profile-pic{
-    clip-path: circle(30.7% at 50% 50%);
+    clip-path: circle(46.5% at 50% 47%);
+    width: 30%;
 }
 .comp{
     clip-path: circle(46.5% at 50% 54%);
@@ -63,9 +64,11 @@ h3{
     line-height: 1.5;
 }
 .chilles{
-    width: 27%;
+    width: 50%;
     float: right;
     margin-left: 17px;
+    margin-bottom: 20px;
+    clip-path: circle(34.5% at 51% 53%);
 }
 
 hr{
